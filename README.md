@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**sayali98333/sayali98333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sayali 👋
 
-Here are some ideas to get you started:
+Agile Business Analyst with 9+ years of IT experience in Business Analysis, Quality Assurance, and Agile delivery across Insurance and Healthcare domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Data Analytics & AI, working with Python, SQL, Pandas, and Tableau to turn data into meaningful business insights.
+
+💼 Skills:
+- Business Analysis | Agile/Scrum | Requirement Engineering
+- QA & Testing | Process Improvement
+- SQL | Python | Tableau | Data Visualization
+
+👯 Open to collaborating on Data Analytics, Business Intelligence, and AI-driven projects.
+
+🌍 Based in Germany 🇩🇪 | Passionate about technology, continuous learning, and solving business problems with data.
