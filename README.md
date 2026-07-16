@@ -7,7 +7,7 @@ Agile Business Analyst with 9+ years of IT experience in Business Analysis, Qual
 
 💼 Skills:
 - Business Analysis | Agile/Scrum | Requirement Engineering
-- QA & Testing | Process Improvement
+- QA & Business Analyst | Process Improvement
 - SQL | Python | Tableau | Data Visualization
 
 👯 Open to collaborating on Data Analytics, Business Intelligence, and AI-driven projects.
