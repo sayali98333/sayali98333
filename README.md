@@ -13,3 +13,5 @@ Agile Business Analyst with 9+ years of IT experience in Business Analysis, Qual
 👯 Open to collaborating on Data Analytics, Business Intelligence, and AI-driven projects.
 
 🌍 Based in Germany 🇩🇪 | Passionate about technology, continuous learning, and solving business problems with data.
+
+https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
