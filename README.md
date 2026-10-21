@@ -52,9 +52,8 @@ Agile Business Analyst with 9+ years of IT experience in Business Analysis, Qual
 **Analytics:** KPI analysis · Trend & pattern analysis · Benchmarking · Dashboard development · Data quality · Process automation
 
 ## Certifications
-
+- Scrum Alliance — Certified ScrumMaster (CSM) ![Completed](https://img.shields.io/badge/-Completed-2E7D32)
 - Python Institute — PCEP (Python Entry-Level Programmer) ![In Progress](https://img.shields.io/badge/-In_Progress-8B7340)
 - Microsoft — Azure Data Fundamentals (DP-900) ![Completed](https://img.shields.io/badge/-Completed-2E7D32)
 - Tableau Desktop Specialist ![In Progress](https://img.shields.io/badge/-In_Progress-8B7340)
-- Aon — Certified HR Analytics, 2021
-- Excel Analytics, 2019
+
